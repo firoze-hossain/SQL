@@ -1,0 +1,1 @@
+https://www.codechef.com/learn/SQ00LS01/problems/GSQ04
