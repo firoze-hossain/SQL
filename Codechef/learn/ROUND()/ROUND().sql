@@ -1,0 +1,4 @@
+select
+    round(Taxable_Pay, 2) as 'taxable_pay'
+from
+    employee;
